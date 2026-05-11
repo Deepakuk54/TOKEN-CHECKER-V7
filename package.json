@@ -1,16 +1,13 @@
 {
-  "name": "deepak-rajput-v7",
-  "version": "1.0.0",
-  "description": "Token Checker V7",
+  "name": "deepak-rajput-render",
+  "version": "7.0.0",
+  "description": "24/7 EAAG6V7 Attacker",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "axios": "^1.6.2"
-  },
-  "engines": {
-    "node": ">=14.0.0"
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
   }
 }
